@@ -48,3 +48,7 @@ This project focuses on analyzing credit card transaction data to extract meanin
 
 ## Conclusion
 This analysis provides actionable insights into revenue patterns, customer behavior, and transaction trends. By implementing the recommendations, businesses can optimize strategies to enhance revenue and customer satisfaction.
+
+## Contact
+- **Author:** Basavaraj Matahad
+- **Email:** [basavarajmathad2018@gmail.com]
