@@ -55,6 +55,6 @@ This analysis provides actionable insights into revenue patterns, customer behav
 
 ## Documentation
 The detailed analysis and report can be found in the PDF linked below:
-- [Credit Card Analysis Report](CreditCardAnalysisReport.pdf)
+- [Credit Card Analysis Report](Credit_Card_Report_dashboard.pdf)
 
 
