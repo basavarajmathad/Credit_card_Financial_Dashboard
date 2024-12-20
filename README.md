@@ -52,3 +52,9 @@ This analysis provides actionable insights into revenue patterns, customer behav
 ## Contact
 - **Author:** Basavaraj Mathad
 - **Email:** [basavarajmathad2018@gmail.com]
+
+## Documentation
+The detailed analysis and report can be found in the PDF linked below:
+- [Credit Card Analysis Report](CreditCardAnalysisReport.pdf)
+
+
